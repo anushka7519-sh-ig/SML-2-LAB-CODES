@@ -28,8 +28,10 @@ module_2/08_simulated_annealing.ipynb     # Q8 - SA (Numerical Example)
 module_2/09_genetic_algorithm.ipynb       # Q9 - GA (Numerical Example)
 results/figures/                          # Generated plots and visualizations
 results/metrics/                          # Numeric outputs and classification reports
+'''text
 
 
+## Running
 python3 -m venv .venv && source .venv/bin/activate
 pip install numpy pandas scikit-learn matplotlib seaborn scipy jupyter
 # Run a specific Python script:
