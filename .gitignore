@@ -1,0 +1,38 @@
+# --- Datasets ---
+BSDS500*/
+*.mat
+*.jpg
+*.jpeg
+*.png
+*.tif
+!results/**/*.png
+!results/**/*.jpg
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+ENV/
+
+# --- OS / Editor junk ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Logs / temp ---
+*.log
+*.tmp
