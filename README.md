@@ -22,15 +22,14 @@ These labs are implemented on **objective (test) functions**, not on a dataset.
 | Lab # | File (in `notebooks/`) | Task |
 |---|---|---|
 | 1 | `simulated_annealing.ipynb` | Simulated Annealing applied to an objective function |
-| 2 | `genetic_algorithm_1.ipynb` | Genetic Algorithm applied to an objective function |
-| 3 | `genetic_algorithm_2.ipynb` | Genetic Algorithm applied to an objective function (variant) |
+| 2 | `Genetic_Algorithm_Maximise.ipynb` | Genetic Algorithm applied to an objective function |
+| 3 | `Genetic_Algorithm_Minimise.ipynb` | Genetic Algorithm applied to an objective function (variant) |
 
 *(Rename the three placeholder file names above once the actual Module 2 files are added, if they differ.)*
 
 ## Dataset
 
 - **BSDS500** — Berkeley Segmentation Dataset, used across Module 1 for all classification/clustering/outlier-detection tasks (in place of Iris, spam/ham, and MNIST).
-- Not included in this repository — see `.gitignore`. Download separately and update the `BASE_DIR` path at the top of each notebook to point to your local copy.
 
 ## Results
 
@@ -48,4 +47,4 @@ pillow
 
 ## Author
 
-Anushka — SML-2 Lab submissions
+Anoushka Aditi— SML-2 Lab submissions
